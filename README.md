@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Asif Ansari</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="coding"width="400"src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+<img align="right" alt="coding"width="400"src="https://camo.githubusercontent.com/19ce75d4b514d40c2b7802633111e8dbe1504d9ac9a4a82733a64fea36010e47/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f63554147754c69456354427752666b4151712f67697068792e6769663f6369643d656366303565343734626a726c636a74367963377730743230646a6f6b62746c396934653969716b696539616e763869267269643d67697068792e6769662663743d73"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-asif-ansari&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-asif-ansari" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-asif-ansari" alt="muhammad-asif-ansari" /></a> </p>

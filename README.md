@@ -26,3 +26,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-asif-ansari&show_icons=true&locale=en" alt="muhammad-asif-ansari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-asif-ansari&" alt="muhammad-asif-ansari" /></p>
+## 🏆 GitHub Trophies
+
+<br/>
+
+<div align="center"> 
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadasif46&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" /> 
+</div>
